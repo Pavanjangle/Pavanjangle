@@ -21,7 +21,7 @@
 <a href="https://codepen.io/your-work/" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" alt="atudjerry" height="30" width="40" /></a><a href="https://www.linkedin.com/in/pavan-jangale/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atud jerry" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atud_jerry33" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/pavan_jangale_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atud_jerry33" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
