@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" height = "250" src="https://www.lambdatest.com/resources/images/news24.gif")>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atudjerry&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/pavan-jangale/" target="_blank" rel="noreferrer"> <img src="https://previews.123rf.com/images/alfianiqbal/alfianiqbal2007/alfianiqbal200700179/151312794-follow-me-button-icon-vector-for-social-media-follow-icon-vector-illustration-design-template.jpg" alt="css3" width="100" height="100"/>
+<p align="left"> <a href="https://www.linkedin.com/in/pavan-jangale/" target="_blank" rel="noreferrer"> <img src="https://www.vecteezy.com/vector-art/21732946-follow-me-button-sign-label-speech-bubble-template-website-tag-banner-sticker-business" alt="css3" width="100" height="100"/>
 
 
 - 🌱 I’m currently learning **JavaScript,Reactjs,Nodejs,**
