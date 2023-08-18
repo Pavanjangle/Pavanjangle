@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" height = "250" src="https://www.lambdatest.com/resources/images/news24.gif")>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atudjerry&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/atudjerry?logo=twitter&style=for-the-badge" alt="atudjerry" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/pavan-jangale" target="blank"><img src="" alt="pavan" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript,Reactjs,Nodejs,**
                              **MySQL,MangoDB,DSA.Basic**
