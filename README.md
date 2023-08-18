@@ -29,4 +29,3 @@
 
 
 
-<p align="left"> <a href="https://www.linkedin.com/in/pavan-jangale/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/021/732/948/non_2x/follow-me-button-sign-label-speech-bubble-template-website-tag-banner-sticker-business-vector.jpg" alt="css3" width="140" height="100"/>
