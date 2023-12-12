@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" height = "250" src="https://www.lambdatest.com/resources/images/news24.gif")>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atudjerry&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,Reactjs,Nodejs,**
+- 🌱 I’m currently Working **JavaScript,Reactjs,Nodejs,**
                              **MySQL,MangoDB,DSA.Basic**
 
 - 💬About ::**Almighty God is primal to me. I'm Passionate about tech and carrier minded**
