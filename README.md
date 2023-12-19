@@ -2,7 +2,7 @@
 [![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAM/coding.gif )](https://rishavchanda.io)
 [![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAM/coding.gif )](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pavan J..</h1>
-<h3 align="center">A passionate frontend developer, working with reactjs and JavaScript</h3>
+<h3 align="center">A passionate Software developer, working with reactjs and JavaScript</h3>
 <img align="right" alt="Coding" width="400" height = "250" src="https://www.lambdatest.com/resources/images/news24.gif")>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atudjerry&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan" /> </p>
 
