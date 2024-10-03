@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atudjerry&label=Profile%20views&color=0e75b6&style=flat" alt="Pavan" /> </p>
 
 - 🌱 I’m currently Working **JavaScript,Reactjs,Nodejs,**
-                             **MySQL,MangoDB,DSA.Basic,.Net,C#,Entity Framework,MVC**
+                             **NPM,API,REDUX,RouteR,Bootstrap,Formik,Axios**
 
 - 💬About ::**Almighty God is primal to me. I'm Passionate about tech and carrier minded**
 
