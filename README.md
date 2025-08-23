@@ -7,7 +7,6 @@
 - 🌱 I’m currently Working **JavaScript,Reactjs,Nodejs,**
                              **NPM,API,REDUX,RouteR,Bootstrap,Formik,Axios**
 
-- 💬About ::**Almighty God is primal to me. I'm Passionate about tech and carrier minded**
 
 - 📫 How to reach me **pavan.jangale91@gmail.com**
                      
