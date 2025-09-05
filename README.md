@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software developer, working with reactjs and JavaScript</h3>
 <img align="right" alt="Coding" width="400" height = "250" src="https://www.lambdatest.com/resources/images/news24.gif")>
 <p align="left">
-  <a href="https://github.com/pavan-jangle">
+  <a href="https://github.com/pavanjangle">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Follow me on GitHub" />
   </a>
 </p>
